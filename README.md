@@ -1,8 +1,8 @@
 <h1>PHP MVC: MVC+Eloquent-Laravel+Bootstrap 3</h1> 
-<p>Project ini adalah sebuah modifikasi dari project MVC-PHP di https://github.com/panique/php-mvc. Saya modifikasi bagian databasenya. Awalnya menggunakan PDO, tapi saya ubah menggunakan eloquent milik laravel karena syntaxnya bisa lebih singkat. Selain itu tampilan saya includekan Bootstrap 3. Dalam project ini sudah ada contoh penggunaannya.</p>
+<p>Project ini adalah sebuah modifikasi dari project PHP-MVC di https://github.com/panique/php-mvc. Saya modifikasi bagian databasenya. Awalnya menggunakan PDO, tapi saya ubah menggunakan Eloquent milik Laravel karena syntaxnya bisa lebih singkat. Selain itu juga saya includekan Bootstrap 3 untuk mempermudah membuat tampilan. Project ini sudah saya sertakan contoh penggunaannya sekaligus databasenya.</p>
 
 <h2>Tujuan</h2>
-<p>Sebenarnya modifikasi PHP MVC ini saya buat untuk mempermudah dan mempercepat pengerjaan web dengan skala yang kecil. Selain itu mungkin dari teman teman juga banyak yang belum tahu PHP MVC itu seperti apa, sehingga akhirnya saya upload project ini di github.</p>
+<p>Sebenarnya modifikasi PHP MVC ini saya buat untuk mempermudah dan mempercepat pengerjaan web dengan skala kecil yang sedang saya kerjakan. Selain itu mungkin dari teman teman juga banyak yang belum tahu PHP MVC itu seperti apa, sehingga akhirnya saya upload project ini di github.</p>
 
 <h2>Installasi</h2>
 <ol>
@@ -15,8 +15,8 @@
 <h2>Tutorial</h2>
 Bila ingin digunakan di project lain, beberapa yang harus di edit adalah :
 <ol>
-<li>file .htaccess : Ubah rewrite base sesuai dengan nama folder project anda</li>
-<li>file config.php ubah URL sesuai URL project anda. Dan juga sesuaikan konfigurasi database dengan database milik anda</li>
+<li>file <code>.htaccess</code>, ubah rewrite base sesuai dengan nama folder project anda</li>
+<li>file <code>config.php</code>,ubah URL sesuai URL project anda. Dan juga sesuaikan konfigurasi database dengan database milik anda</li>
 </ol>
 
 <h2>Informasi  lebih lanjut</h2>
