@@ -7,9 +7,9 @@
 <h2>Installasi</h2>
 <ol>
 <li>Download file project ini di https://github.com/jksusilo/php-mvc/archive/master.zip</li>
-<li>Ekstrak hasil downloadan, ubah nama folder menjadi php-mvc dan taruh di folder htdocs/ </li>
+<li>Ekstrak hasil downloadan, ubah nama folder menjadi php-mvc dan taruh di folder <code>htdocs/</code> </li>
 <li>buat database dengan nama php-mvc, dan import database yang saya sertakan di file downloadan tadi</li>
-<li>Tinggal buka browser dan jalankan di localhost/php-mvc</li>
+<li>Tinggal buka browser dan jalankan di <code>localhost/php-mvc</code></li>
 </ol>
 
 <h2>Tutorial</h2>
